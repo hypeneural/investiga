@@ -1,0 +1,1053 @@
+{
+  "totalRegistros": 130,
+  "anos": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "dataConsulta": "13/03/2026 23:09:10",
+  "registros": [
+    {
+      "orgaoCodigo": "1",
+      "orgaoDescricao": "CÂMARA MUNICIPAL DE VEREADORES",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Câmara Municipal de Vereadores",
+      "valorOrcado": "159075.00",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "2",
+      "orgaoDescricao": "GABINETE DO PREFEITO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Gabinete do Prefeito",
+      "valorOrcado": "231220.50",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "3",
+      "orgaoDescricao": "SECRETARIA DE ADMINISTRAÇÃO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão de Administração e Pessoal",
+      "valorOrcado": "13453313.00",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "4",
+      "orgaoDescricao": "SECRETARIA DE OBRAS, TRANSP. E SERVIÇOS PUBLICOS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão de Obras e Serviços Industriais",
+      "valorOrcado": "15107576.20",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "4",
+      "orgaoDescricao": "SECRETARIA DE OBRAS, TRANSP. E SERVIÇOS PUBLICOS",
+      "unidadeCodigo": "3",
+      "unidadeDescricao": "Divisão de Transporte  e Serviços  Públicos",
+      "valorOrcado": "8173844.70",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "6",
+      "orgaoDescricao": "SECRETARIA DE EDUCAÇÃO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão de Ensino e Apoio ao Estudante",
+      "valorOrcado": "16842028.50",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "7",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONOMICO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Diretoria de Desenvolvimento Econômico",
+      "valorOrcado": "372750.00",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "11",
+      "orgaoDescricao": "FUNDO MUNICIPAL DE SAÚDE",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Municipal de Saúde",
+      "valorOrcado": "2351955.28",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "12",
+      "orgaoDescricao": "FUNDO MUN. AGRIC PESCA E MEIO AMBIENTE DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Mun Agric Pesca e Meio Ambiente de Tijucas",
+      "valorOrcado": "1780351.10",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "13",
+      "orgaoDescricao": "FUNDO MUN. DE ASSISTÊNCIA SOCIAL DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Mun. de Assistência Social de Tijucas",
+      "valorOrcado": "2348315.57",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "14",
+      "orgaoDescricao": "FUNDAÇÃO MUNICIPAL DE ESPORTES DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundação Municipal de Esportes de Tijucas",
+      "valorOrcado": "1599746.30",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "15",
+      "orgaoDescricao": "SAMAE DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "SAMAE de Tijucas",
+      "valorOrcado": "1503876.41",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "16",
+      "orgaoDescricao": "INSTITUTO DE PREVIDÊNCIA SOCIAL DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Instituto de Previdência Social de Tijucas",
+      "valorOrcado": "5168100.00",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "17",
+      "orgaoDescricao": "RESERVA DE CONTINGÊNCIA",
+      "unidadeCodigo": "99",
+      "unidadeDescricao": "Reserva de Contingência",
+      "valorOrcado": "68250.00",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "19",
+      "orgaoDescricao": "FUNDO MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Municipal de Habitação  de Interesse Social",
+      "valorOrcado": "2681700.00",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "20",
+      "orgaoDescricao": "FUNDO MUNICIPAL DOS DTOS. DA CRIANÇA E DO ADOLESCE",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Munic. dos Dtos. da Criança e do Adolescente",
+      "valorOrcado": "1518782.50",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "21",
+      "orgaoDescricao": "FUNDAÇÃO CULTURAL TRADIÇÃO DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundação Cultural Tradição de Tijucas",
+      "valorOrcado": "549375.70",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "22",
+      "orgaoDescricao": "SECRETARIA DE FINANÇAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão Financeira",
+      "valorOrcado": "564500.00",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "23",
+      "orgaoDescricao": "SEC MUN DE CULTURA, JUVENTUDE E TURISMO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Departamento de Cultura",
+      "valorOrcado": "2653000.00",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "23",
+      "orgaoDescricao": "SEC MUN DE CULTURA, JUVENTUDE E TURISMO",
+      "unidadeCodigo": "2",
+      "unidadeDescricao": "Departamento de Assuntos da Juventude",
+      "valorOrcado": "136311.00",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "23",
+      "orgaoDescricao": "SEC MUN DE CULTURA, JUVENTUDE E TURISMO",
+      "unidadeCodigo": "3",
+      "unidadeDescricao": "Departamento de Direitos Humanos",
+      "valorOrcado": "340850.00",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "24",
+      "orgaoDescricao": "FUNDO MUNICIPAL DE PROTEÇÃO E DEFESA CIVIL",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "FUNDO MUNICIPAL DE  PROTEÇÃO E DEFESA CIVIL",
+      "valorOrcado": "674827.08",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "26",
+      "orgaoDescricao": "FUNDO MUNICIPAL DO IDOSO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Municipal do Idoso",
+      "valorOrcado": "568303.25",
+      "_ano": 2022
+    },
+    {
+      "orgaoCodigo": "1",
+      "orgaoDescricao": "CÂMARA MUNICIPAL DE VEREADORES",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Câmara Municipal de Vereadores",
+      "valorOrcado": "5965128.75",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "2",
+      "orgaoDescricao": "GABINETE DO PREFEITO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Gabinete do Prefeito",
+      "valorOrcado": "3057483.53",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "3",
+      "orgaoDescricao": "SECRETARIA DE ADMINISTRAÇÃO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão de Administração e Pessoal",
+      "valorOrcado": "26209507.14",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "4",
+      "orgaoDescricao": "SECRETARIA DE OBRAS, TRANSP. E SERVIÇOS PUBLICOS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão de Obras e Serviços Industriais",
+      "valorOrcado": "43412235.74",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "4",
+      "orgaoDescricao": "SECRETARIA DE OBRAS, TRANSP. E SERVIÇOS PUBLICOS",
+      "unidadeCodigo": "3",
+      "unidadeDescricao": "Divisão de Transporte  e Serviços  Públicos",
+      "valorOrcado": "44638578.63",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "6",
+      "orgaoDescricao": "SECRETARIA DE EDUCAÇÃO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão de Ensino e Apoio ao Estudante",
+      "valorOrcado": "113248507.61",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "7",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONOMICO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Diretoria de Desenvolvimento Econômico",
+      "valorOrcado": "1269502.50",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "11",
+      "orgaoDescricao": "FUNDO MUNICIPAL DE SAÚDE",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Municipal de Saúde",
+      "valorOrcado": "67956682.85",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "12",
+      "orgaoDescricao": "FUNDO MUN. AGRICULTURA PESCA E MEIO AMBIENTE DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Mun Agric Pesca e Meio Ambiente de Tijucas",
+      "valorOrcado": "4139423.16",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "13",
+      "orgaoDescricao": "FUNDO MUN. DE ASSISTÊNCIA SOCIAL DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Mun. de Assistência Social de Tijucas",
+      "valorOrcado": "8038971.50",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "14",
+      "orgaoDescricao": "FUNDAÇÃO MUNICIPAL DE ESPORTES DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundação Municipal de Esportes de Tijucas",
+      "valorOrcado": "4999275.63",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "15",
+      "orgaoDescricao": "SAMAE DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "SAMAE de Tijucas",
+      "valorOrcado": "17797380.76",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "16",
+      "orgaoDescricao": "INSTITUTO DE PREVIDÊNCIA SOCIAL DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Instituto de Previdência Social de Tijucas",
+      "valorOrcado": "20623647.07",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "17",
+      "orgaoDescricao": "RESERVA DE CONTINGÊNCIA",
+      "unidadeCodigo": "99",
+      "unidadeDescricao": "Reserva de Contingência",
+      "valorOrcado": "71662.50",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "19",
+      "orgaoDescricao": "FUNDO MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Municipal de Habitação  de Interesse Social",
+      "valorOrcado": "2915785.00",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "20",
+      "orgaoDescricao": "FUNDO MUNICIPAL DOS DTOS. DA CRIANÇA E DO ADOLESCE",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Munic. dos Dtos. da Criança e do Adolescente",
+      "valorOrcado": "2330612.10",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "21",
+      "orgaoDescricao": "FUNDAÇÃO CULTURAL TRADIÇÃO DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundação Cultural Tradição de Tijucas",
+      "valorOrcado": "685163.99",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "22",
+      "orgaoDescricao": "SECRETARIA DE FINANÇAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão Financeira",
+      "valorOrcado": "5657175.00",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "23",
+      "orgaoDescricao": "SEC MUN DE CULTURA, JUVENTUDE E TURISMO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Departamento de Cultura",
+      "valorOrcado": "4026816.89",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "23",
+      "orgaoDescricao": "SEC MUN DE CULTURA, JUVENTUDE E TURISMO",
+      "unidadeCodigo": "2",
+      "unidadeDescricao": "Departamento de Assuntos da Juventude",
+      "valorOrcado": "457537.50",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "23",
+      "orgaoDescricao": "SEC MUN DE CULTURA, JUVENTUDE E TURISMO",
+      "unidadeCodigo": "3",
+      "unidadeDescricao": "Departamento de Direitos Humanos",
+      "valorOrcado": "305392.50",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "24",
+      "orgaoDescricao": "FUNDO MUNICIPAL DE PROTEÇÃO E DEFESA CIVIL",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "FUNDO MUNICIPAL DE  PROTEÇÃO E DEFESA CIVIL",
+      "valorOrcado": "1729666.01",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "26",
+      "orgaoDescricao": "FUNDO MUNICIPAL DO IDOSO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Municipal do Idoso",
+      "valorOrcado": "1294885.34",
+      "_ano": 2023
+    },
+    {
+      "orgaoCodigo": "1",
+      "orgaoDescricao": "CÂMARA MUNICIPAL DE VEREADORES",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Câmara Municipal de Vereadores",
+      "valorOrcado": "6263385.19",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "2",
+      "orgaoDescricao": "GABINETE DO PREFEITO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Gabinete do Prefeito",
+      "valorOrcado": "3580357.71",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "3",
+      "orgaoDescricao": "SECRETARIA DE ADMINISTRAÇÃO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão de Administração e Pessoal",
+      "valorOrcado": "34039424.90",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "4",
+      "orgaoDescricao": "SECRETARIA DE OBRAS, TRANSP. E SERVIÇOS PUBLICOS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão de Obras e Serviços Industriais",
+      "valorOrcado": "72081661.64",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "4",
+      "orgaoDescricao": "SECRETARIA DE OBRAS, TRANSP. E SERVIÇOS PUBLICOS",
+      "unidadeCodigo": "3",
+      "unidadeDescricao": "Divisão de Transporte  e Serviços  Públicos",
+      "valorOrcado": "47133717.58",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "6",
+      "orgaoDescricao": "SECRETARIA DE EDUCAÇÃO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão de Ensino e Apoio ao Estudante",
+      "valorOrcado": "127136736.63",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "7",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONOMICO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Diretoria de Desenvolvimento Econômico",
+      "valorOrcado": "1232477.63",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "11",
+      "orgaoDescricao": "FUNDO MUNICIPAL DE SAÚDE",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Municipal de Saúde",
+      "valorOrcado": "72794623.27",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "12",
+      "orgaoDescricao": "FUNDO MUN. AGRIC PESCA E MEIO AMBIENTE DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Mun Agric Pesca e Meio Ambiente de Tijucas",
+      "valorOrcado": "3684350.74",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "13",
+      "orgaoDescricao": "FUNDO MUN. DE ASSISTÊNCIA SOCIAL DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Mun. de Assistência Social de Tijucas",
+      "valorOrcado": "9587685.04",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "14",
+      "orgaoDescricao": "FUNDAÇÃO MUNICIPAL DE ESPORTES DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundação Municipal de Esportes de Tijucas",
+      "valorOrcado": "5926721.22",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "15",
+      "orgaoDescricao": "SAMAE DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "SAMAE de Tijucas",
+      "valorOrcado": "22630749.77",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "16",
+      "orgaoDescricao": "INSTITUTO DE PREVIDÊNCIA SOCIAL DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Instituto de Previdência Social de Tijucas",
+      "valorOrcado": "23914829.42",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "17",
+      "orgaoDescricao": "RESERVA DE CONTINGÊNCIA",
+      "unidadeCodigo": "99",
+      "unidadeDescricao": "Reserva de Contingência",
+      "valorOrcado": "75245.63",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "19",
+      "orgaoDescricao": "FUNDO MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Municipal de Habitação  de Interesse Social",
+      "valorOrcado": "1849298.00",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "20",
+      "orgaoDescricao": "FUNDO MUNICIPAL DOS DTOS. DA CRIANÇA E DO ADOLESCE",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Munic. dos Dtos. da Criança e do Adolescente",
+      "valorOrcado": "1883131.78",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "21",
+      "orgaoDescricao": "FUNDAÇÃO CULTURAL TRADIÇÃO DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundação Cultural Tradição de Tijucas",
+      "valorOrcado": "927922.20",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "22",
+      "orgaoDescricao": "SECRETARIA DE FINANÇAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão Financeira",
+      "valorOrcado": "5761533.75",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "23",
+      "orgaoDescricao": "SEC MUN DE CULTURA, JUVENTUDE E TURISMO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Departamento de Cultura",
+      "valorOrcado": "4336679.16",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "23",
+      "orgaoDescricao": "SEC MUN DE CULTURA, JUVENTUDE E TURISMO",
+      "unidadeCodigo": "2",
+      "unidadeDescricao": "Departamento de Assuntos da Juventude",
+      "valorOrcado": "480414.38",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "23",
+      "orgaoDescricao": "SEC MUN DE CULTURA, JUVENTUDE E TURISMO",
+      "unidadeCodigo": "3",
+      "unidadeDescricao": "Departamento de Direitos Humanos",
+      "valorOrcado": "320662.13",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "24",
+      "orgaoDescricao": "FUNDO MUNICIPAL DE PROTEÇÃO E DEFESA CIVIL",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "FUNDO MUNICIPAL DE  PROTEÇÃO E DEFESA CIVIL",
+      "valorOrcado": "1038270.64",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "26",
+      "orgaoDescricao": "FUNDO MUNICIPAL DO IDOSO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Municipal do Idoso",
+      "valorOrcado": "1618689.85",
+      "_ano": 2024
+    },
+    {
+      "orgaoCodigo": "1",
+      "orgaoDescricao": "CÂMARA MUNICIPAL DE VEREADORES",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Câmara Municipal de Vereadores",
+      "valorOrcado": "7126554.45",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "2",
+      "orgaoDescricao": "GABINETE DO PREFEITO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Gabinete do Prefeito",
+      "valorOrcado": "3410357.71",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "3",
+      "orgaoDescricao": "SECRETARIA DE ADMINISTRAÇÃO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão de Administração e Pessoal",
+      "valorOrcado": "37158524.37",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "4",
+      "orgaoDescricao": "SECRETARIA DE OBRAS, TRANSP. E SERVIÇOS PUBLICOS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão de Obras e Serviços Industriais",
+      "valorOrcado": "56895524.64",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "4",
+      "orgaoDescricao": "SECRETARIA DE OBRAS, TRANSP. E SERVIÇOS PUBLICOS",
+      "unidadeCodigo": "3",
+      "unidadeDescricao": "Divisão de Transporte  e Serviços  Públicos",
+      "valorOrcado": "59961289.01",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "6",
+      "orgaoDescricao": "SECRETARIA DE EDUCAÇÃO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão de Ensino e Apoio ao Estudante",
+      "valorOrcado": "163416472.48",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "7",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONOMICO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Diretoria de Desenvolvimento Econômico",
+      "valorOrcado": "1462477.63",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "11",
+      "orgaoDescricao": "FUNDO MUNICIPAL DE SAÚDE",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Municipal de Saúde",
+      "valorOrcado": "98481669.09",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "12",
+      "orgaoDescricao": "FUNDO MUN. AGRIC. E MEIO AMBIENTE DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Mun Agric Pesca e Meio Ambiente de Tijucas",
+      "valorOrcado": "4262411.67",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "13",
+      "orgaoDescricao": "FUNDO MUN. DE ASSISTÊNCIA SOCIAL DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Mun. de Assistência Social de Tijucas",
+      "valorOrcado": "9867312.44",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "14",
+      "orgaoDescricao": "FUNDAÇÃO MUNICIPAL DE ESPORTES DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundação Municipal de Esportes de Tijucas",
+      "valorOrcado": "5710051.99",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "15",
+      "orgaoDescricao": "SAMAE DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "SAMAE de Tijucas",
+      "valorOrcado": "31174824.32",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "16",
+      "orgaoDescricao": "INSTITUTO DE PREVIDÊNCIA SOCIAL DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Instituto de Previdência Social de Tijucas",
+      "valorOrcado": "26945570.90",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "17",
+      "orgaoDescricao": "RESERVA DE CONTINGÊNCIA",
+      "unidadeCodigo": "99",
+      "unidadeDescricao": "Reserva de Contingência",
+      "valorOrcado": "775245.63",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "19",
+      "orgaoDescricao": "FUNDO MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Municipal de Habitação  de Interesse Social",
+      "valorOrcado": "1941762.89",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "20",
+      "orgaoDescricao": "FUNDO MUNICIPAL DOS DIREITOS. DA CRIANÇA E DO ADOLESCENTE",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Municipal dos Direitos da Criança e do Adolescente",
+      "valorOrcado": "1934988.37",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "21",
+      "orgaoDescricao": "FUNDAÇÃO CULTURAL TRADIÇÃO DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundação Cultural Tradição de Tijucas",
+      "valorOrcado": "845318.30",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "22",
+      "orgaoDescricao": "SECRETARIA DE FINANÇAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Divisão Financeira",
+      "valorOrcado": "12632933.75",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "23",
+      "orgaoDescricao": "SEC MUN DE CULTURA, JUVENTUDE E TURISMO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Departamento de Cultura",
+      "valorOrcado": "4625578.31",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "23",
+      "orgaoDescricao": "SEC MUN DE CULTURA, JUVENTUDE E TURISMO",
+      "unidadeCodigo": "2",
+      "unidadeDescricao": "Departamento de Assuntos da Juventude",
+      "valorOrcado": "494166.24",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "23",
+      "orgaoDescricao": "SEC MUN DE CULTURA, JUVENTUDE E TURISMO",
+      "unidadeCodigo": "3",
+      "unidadeDescricao": "Departamento de Direitos Humanos",
+      "valorOrcado": "330662.13",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "24",
+      "orgaoDescricao": "FUNDO MUNICIPAL DE PROTEÇÃO E DEFESA CIVIL",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "FUNDO MUNICIPAL DE  PROTEÇÃO E DEFESA CIVIL",
+      "valorOrcado": "1282895.37",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "26",
+      "orgaoDescricao": "FUNDO MUNICIPAL DO IDOSO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Fundo Municipal do Idoso",
+      "valorOrcado": "1670205.94",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "27",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE PESCA E AQUICULTURA",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "Secretaria Municipal  de Pesca e Aquicultura",
+      "valorOrcado": "218377.21",
+      "_ano": 2025
+    },
+    {
+      "orgaoCodigo": "1",
+      "orgaoDescricao": "CÂMARA MUNICIPAL DE VEREADORES",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "CÂMARA MUNICIPAL DE VEREADORES",
+      "valorOrcado": "7563434.31",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "2",
+      "orgaoDescricao": "GABINETE DO PREFEITO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "GABINETE DO PREFEITO",
+      "valorOrcado": "3280000.00",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "3",
+      "orgaoDescricao": "GABINETE DO VICE PREFEITO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "GABINETE DO VICE PREFEITO",
+      "valorOrcado": "230000.00",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "4",
+      "orgaoDescricao": "PROCURADORIA GERAL",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "PROCURADORIA GERAL",
+      "valorOrcado": "3760000.00",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "6",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO",
+      "valorOrcado": "26635741.06",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "7",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE FINANÇAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "SECRETARIA MUNICIPAL DE FINANÇAS",
+      "valorOrcado": "8360344.10",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "8",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DA CASA CIVIL E RELAÇÕES INSTITUCIONAIS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "SECRETARIA MUNICIPAL DA CASA CIVIL E RELAÇÕES INSTITUCIONAIS",
+      "valorOrcado": "400000.00",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "10",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, HABITAÇÃO E DIREITOS HUMANOS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL, HABITAÇÃO E DIREITOS HUMANOS",
+      "valorOrcado": "3855000.00",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "11",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO",
+      "valorOrcado": "1150000.00",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "12",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE CULTURA, JUVENTUDE E TURISMO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "SECRETARIA MUNICIPAL DE CULTURA, JUVENTUDE E TURISMO",
+      "valorOrcado": "2245352.54",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "13",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE AGRICULTURA",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "SECRETARIA MUNICIPAL DE AGRICULTURA",
+      "valorOrcado": "2230484.00",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "14",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE OBRAS, TRANSP. E SERVIÇOS PUBLICOS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "DEPARTAMENTO DE OBRAS",
+      "valorOrcado": "60610592.64",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "14",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE OBRAS, TRANSP. E SERVIÇOS PUBLICOS",
+      "unidadeCodigo": "2",
+      "unidadeDescricao": "DEPARTAMENTO DE SERVIÇOS PÚBLICOS",
+      "valorOrcado": "16518165.92",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "14",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE OBRAS, TRANSP. E SERVIÇOS PUBLICOS",
+      "unidadeCodigo": "4",
+      "unidadeDescricao": "SETOR DE CAPTAÇÃO DE RECURSOS",
+      "valorOrcado": "310000.00",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "15",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE PLANEJAMENTO URBANO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "SECRETARIA MUNICIPAL DE PLANEJAMENTO URBANO",
+      "valorOrcado": "822000.00",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "16",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE SEGURANÇA PÚBLICA",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "ADMINISTRAÇÃO DA SECRETARIA MUNICIPAL DE SEGURANÇA PÚBLICA",
+      "valorOrcado": "661000.00",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "16",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE SEGURANÇA PÚBLICA",
+      "unidadeCodigo": "2",
+      "unidadeDescricao": "DEPARTAMENTO DE TRÂNSITO E TRANSPORTE",
+      "valorOrcado": "1609083.66",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "16",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE SEGURANÇA PÚBLICA",
+      "unidadeCodigo": "3",
+      "unidadeDescricao": "DEPARTAMENTO DE DEFESA SOCIAL E PREVENÇÃO",
+      "valorOrcado": "1763928.42",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "17",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE PESCA E AQUICULTURA",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "SECRETARIA MUNICIPAL DE PESCA E AQUICULTURA",
+      "valorOrcado": "668000.00",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "20",
+      "orgaoDescricao": "FUNDO MUNICIPAL DOS DTOS. DA CRIANÇA E DO ADOLESCE",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "FUNDO MUNICIPAL DOS DTOS. DA CRIANÇA E DO ADOLESCENTE",
+      "valorOrcado": "1573678.92",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "21",
+      "orgaoDescricao": "FUNDO MUNICIPAL DE SAÚDE",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "FUNDO MUNICIPAL DE SAÚDE",
+      "valorOrcado": "71992092.22",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "22",
+      "orgaoDescricao": "FUNDO MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "FUNDO MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL",
+      "valorOrcado": "450160.00",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "23",
+      "orgaoDescricao": "FUNDO MUN. DE ASSISTÊNCIA SOCIAL DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "FUNDO MUN. DE ASSISTÊNCIA SOCIAL DE TIJUCAS",
+      "valorOrcado": "3192872.17",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "24",
+      "orgaoDescricao": "FUNDO MUNICIPAL DE PROTEÇÃO E DEFESA CIVIL",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "FUNDO MUNICIPAL DE PROTEÇÃO E DEFESA CIVIL",
+      "valorOrcado": "485010.00",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "25",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO DA EDUCAÇÃO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "DEPARTAMENTO ADMINISTRATIVO DA EDUCAÇÃO",
+      "valorOrcado": "4340160.17",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "25",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO DA EDUCAÇÃO",
+      "unidadeCodigo": "2",
+      "unidadeDescricao": "DEPARTAMENTO DO ENSINO FUNDAMENTAL",
+      "valorOrcado": "87542819.46",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "25",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO DA EDUCAÇÃO",
+      "unidadeCodigo": "3",
+      "unidadeDescricao": "DEPARTAMENTO DE EDUCAÇÃO INFANTIL",
+      "valorOrcado": "26193429.29",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "25",
+      "orgaoDescricao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO DA EDUCAÇÃO",
+      "unidadeCodigo": "4",
+      "unidadeDescricao": "DEPARTAMENTO PRÉ-ESCOLAR",
+      "valorOrcado": "9579846.15",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "26",
+      "orgaoDescricao": "FUNDO MUNICIPAL DOS DIREITOS IDOSO",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "FUNDO MUNICIPAL DOS DIREITOS IDOSO",
+      "valorOrcado": "1755812.29",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "27",
+      "orgaoDescricao": "FUNDO MUNICIPAL DO MEIO AMBIENTE DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "FUNDO MUNICIPAL DO MEIO AMBIENTE DE TIJUCAS",
+      "valorOrcado": "917094.56",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "30",
+      "orgaoDescricao": "FUNDAÇÃO CULTURAL TRADIÇÃO DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "FUNDAÇÃO CULTURAL TRADIÇÃO DE TIJUCAS",
+      "valorOrcado": "1832030.00",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "31",
+      "orgaoDescricao": "FUNDAÇÃO MUNICIPAL DE ESPORTES DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "FUNDAÇÃO MUNICIPAL DE ESPORTES DE TIJUCAS",
+      "valorOrcado": "5516140.47",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "35",
+      "orgaoDescricao": "SAMAE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "SAMAE TIJUCAS",
+      "valorOrcado": "65131895.19",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "36",
+      "orgaoDescricao": "INSTITUTO DE PREVIDÊNCIA SOCIAL DE TIJUCAS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "SETOR ADMINISTRATIVO DO RPPS",
+      "valorOrcado": "1627000.00",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "36",
+      "orgaoDescricao": "INSTITUTO DE PREVIDÊNCIA SOCIAL DE TIJUCAS",
+      "unidadeCodigo": "2",
+      "unidadeDescricao": "SETOR DE BENEFÍCIOS",
+      "valorOrcado": "16715231.48",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "98",
+      "orgaoDescricao": "OPERACÕES ESPECIAIS",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "ENCARGOS ESPECIAIS",
+      "valorOrcado": "15848365.69",
+      "_ano": 2026
+    },
+    {
+      "orgaoCodigo": "99",
+      "orgaoDescricao": "RESERVA DE CONTINGÊNCIA",
+      "unidadeCodigo": "1",
+      "unidadeDescricao": "RESERVA DE CONTINGÊNCIA",
+      "valorOrcado": "24664664.08",
+      "_ano": 2026
+    }
+  ]
+}

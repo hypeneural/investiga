@@ -1,0 +1,1710 @@
+{
+  "42515273000119": {
+    "cnpj": "42515273000119",
+    "updated_at": "2026-03-13T17:09:59.773575",
+    "payload": {
+      "uf": "SC",
+      "cep": "88200000",
+      "qsa": [
+        {
+          "pais": null,
+          "nome_socio": "JAIR JORGE PINHEIRO",
+          "codigo_pais": null,
+          "faixa_etaria": "Entre 51 a 60 anos",
+          "cnpj_cpf_do_socio": "***289009**",
+          "qualificacao_socio": "Sócio-Administrador",
+          "codigo_faixa_etaria": 6,
+          "data_entrada_sociedade": "2021-07-26",
+          "identificador_de_socio": 2,
+          "cpf_representante_legal": "***000000**",
+          "nome_representante_legal": "",
+          "codigo_qualificacao_socio": 49,
+          "qualificacao_representante_legal": "Não informada",
+          "codigo_qualificacao_representante_legal": 0
+        }
+      ],
+      "cnpj": "42515273000119",
+      "pais": null,
+      "email": null,
+      "porte": "MICRO EMPRESA",
+      "bairro": "XV DE NOVEMBRO",
+      "numero": "321",
+      "ddd_fax": "",
+      "municipio": "TIJUCAS",
+      "logradouro": "MAURI AFONSO DA SILVA",
+      "cnae_fiscal": 6010100,
+      "codigo_pais": null,
+      "complemento": "",
+      "codigo_porte": 1,
+      "razao_social": "JJC COMUNICACOES LTDA",
+      "nome_fantasia": "ASUARADIOJJ",
+      "capital_social": 10000,
+      "ddd_telefone_1": "4896340353",
+      "ddd_telefone_2": "",
+      "opcao_pelo_mei": false,
+      "codigo_municipio": 8355,
+      "cnaes_secundarios": [
+        {
+          "codigo": 6021700,
+          "descricao": "Atividades de televisão aberta"
+        },
+        {
+          "codigo": 6319400,
+          "descricao": "Portais, provedores de conteúdo e outros serviços de informação na internet"
+        },
+        {
+          "codigo": 6391700,
+          "descricao": "Agências de notícias"
+        }
+      ],
+      "natureza_juridica": "Sociedade Empresária Limitada",
+      "regime_tributario": [],
+      "situacao_especial": "",
+      "opcao_pelo_simples": true,
+      "situacao_cadastral": 2,
+      "data_opcao_pelo_mei": null,
+      "data_exclusao_do_mei": null,
+      "cnae_fiscal_descricao": "Atividades de rádio",
+      "codigo_municipio_ibge": 4218004,
+      "data_inicio_atividade": "2021-06-29",
+      "data_situacao_especial": null,
+      "data_opcao_pelo_simples": "2024-01-01",
+      "data_situacao_cadastral": "2021-06-29",
+      "nome_cidade_no_exterior": "",
+      "codigo_natureza_juridica": 2062,
+      "data_exclusao_do_simples": null,
+      "motivo_situacao_cadastral": 0,
+      "ente_federativo_responsavel": "",
+      "identificador_matriz_filial": 1,
+      "qualificacao_do_responsavel": 49,
+      "descricao_situacao_cadastral": "ATIVA",
+      "descricao_tipo_de_logradouro": "RUA",
+      "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+      "descricao_identificador_matriz_filial": "MATRIZ"
+    }
+  },
+  "83845701000159": {
+    "cnpj": "83845701000159",
+    "updated_at": "2026-03-13T17:11:30.622199",
+    "payload": {
+      "uf": "SC",
+      "cep": "88020901",
+      "qsa": [],
+      "cnpj": "83845701000159",
+      "pais": null,
+      "email": null,
+      "porte": "DEMAIS",
+      "bairro": "CENTRO",
+      "numero": "208",
+      "ddd_fax": "",
+      "municipio": "FLORIANOPOLIS",
+      "logradouro": "ALVARO MILLEN DA SILVEIRA",
+      "cnae_fiscal": 8423000,
+      "codigo_pais": null,
+      "complemento": "",
+      "codigo_porte": 5,
+      "razao_social": "SANTA CATARINA TRIBUNAL DE JUSTICA",
+      "nome_fantasia": "TRIBUNAL JUSTICA SANTA CATARINA",
+      "capital_social": 0,
+      "ddd_telefone_1": "4832871000",
+      "ddd_telefone_2": "",
+      "opcao_pelo_mei": null,
+      "codigo_municipio": 8105,
+      "cnaes_secundarios": [],
+      "natureza_juridica": "Órgão Público do Poder Judiciário Estadual",
+      "regime_tributario": [],
+      "situacao_especial": "",
+      "opcao_pelo_simples": null,
+      "situacao_cadastral": 2,
+      "data_opcao_pelo_mei": null,
+      "data_exclusao_do_mei": null,
+      "cnae_fiscal_descricao": "Justiça",
+      "codigo_municipio_ibge": 4205407,
+      "data_inicio_atividade": "1980-02-27",
+      "data_situacao_especial": null,
+      "data_opcao_pelo_simples": null,
+      "data_situacao_cadastral": "2005-11-03",
+      "nome_cidade_no_exterior": "",
+      "codigo_natureza_juridica": 1082,
+      "data_exclusao_do_simples": null,
+      "motivo_situacao_cadastral": 0,
+      "ente_federativo_responsavel": "SANTA CATARINA",
+      "identificador_matriz_filial": 1,
+      "qualificacao_do_responsavel": 5,
+      "descricao_situacao_cadastral": "ATIVA",
+      "descricao_tipo_de_logradouro": "RUA",
+      "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+      "descricao_identificador_matriz_filial": "MATRIZ"
+    }
+  },
+  "28090609000118": {
+    "cnpj": "28090609000118",
+    "updated_at": "2026-03-13T17:11:30.882747",
+    "payload": {
+      "uf": "SC",
+      "cep": "88353100",
+      "qsa": [
+        {
+          "pais": null,
+          "nome_socio": "ALEXANDRE BUOSI MONTEIRO",
+          "codigo_pais": null,
+          "faixa_etaria": "Entre 41 a 50 anos",
+          "cnpj_cpf_do_socio": "***123549**",
+          "qualificacao_socio": "Sócio-Administrador",
+          "codigo_faixa_etaria": 5,
+          "data_entrada_sociedade": "2017-07-03",
+          "identificador_de_socio": 2,
+          "cpf_representante_legal": "***000000**",
+          "nome_representante_legal": "",
+          "codigo_qualificacao_socio": 49,
+          "qualificacao_representante_legal": "Não informada",
+          "codigo_qualificacao_representante_legal": 0
+        },
+        {
+          "pais": null,
+          "nome_socio": "BRUNO EGAS ZANINOTTO",
+          "codigo_pais": null,
+          "faixa_etaria": "Entre 41 a 50 anos",
+          "cnpj_cpf_do_socio": "***858379**",
+          "qualificacao_socio": "Administrador",
+          "codigo_faixa_etaria": 5,
+          "data_entrada_sociedade": "2017-07-03",
+          "identificador_de_socio": 2,
+          "cpf_representante_legal": "***000000**",
+          "nome_representante_legal": "",
+          "codigo_qualificacao_socio": 5,
+          "qualificacao_representante_legal": "Não informada",
+          "codigo_qualificacao_representante_legal": 0
+        },
+        {
+          "pais": null,
+          "nome_socio": "MANOEL AMADEU MOISEIS",
+          "codigo_pais": null,
+          "faixa_etaria": "Entre 71 a 80 anos",
+          "cnpj_cpf_do_socio": "***402349**",
+          "qualificacao_socio": "Sócio-Administrador",
+          "codigo_faixa_etaria": 8,
+          "data_entrada_sociedade": "2017-07-03",
+          "identificador_de_socio": 2,
+          "cpf_representante_legal": "***000000**",
+          "nome_representante_legal": "",
+          "codigo_qualificacao_socio": 49,
+          "qualificacao_representante_legal": "Não informada",
+          "codigo_qualificacao_representante_legal": 0
+        },
+        {
+          "pais": null,
+          "nome_socio": "UVEL UNISUL VEICULOS LTDA.",
+          "codigo_pais": null,
+          "faixa_etaria": "Não se aplica",
+          "cnpj_cpf_do_socio": "11149423000194",
+          "qualificacao_socio": "Sócio",
+          "codigo_faixa_etaria": 0,
+          "data_entrada_sociedade": "2017-07-03",
+          "identificador_de_socio": 1,
+          "cpf_representante_legal": "***836738**",
+          "nome_representante_legal": "LUIZ HOMERO ZANINOTTO JUNIOR",
+          "codigo_qualificacao_socio": 22,
+          "qualificacao_representante_legal": "Administrador",
+          "codigo_qualificacao_representante_legal": 5
+        }
+      ],
+      "cnpj": "28090609000118",
+      "pais": null,
+      "email": null,
+      "porte": "DEMAIS",
+      "bairro": "CENTRO II",
+      "numero": "202",
+      "ddd_fax": "4730444496",
+      "municipio": "BRUSQUE",
+      "logradouro": "ANTONIO HEIL",
+      "cnae_fiscal": 4511101,
+      "codigo_pais": null,
+      "complemento": "GALPAO4 E 5",
+      "codigo_porte": 5,
+      "razao_social": "TREVISUL COMERCIAL DE VEICULOS LTDA",
+      "nome_fantasia": "TREVISUL",
+      "capital_social": 5000000,
+      "ddd_telefone_1": "4730444496",
+      "ddd_telefone_2": "4730444497",
+      "opcao_pelo_mei": null,
+      "codigo_municipio": 8055,
+      "cnaes_secundarios": [
+        {
+          "codigo": 4511102,
+          "descricao": "Comércio a varejo de automóveis, camionetas e utilitários usados"
+        },
+        {
+          "codigo": 4520001,
+          "descricao": "Serviços de manutenção e reparação mecânica de veículos automotores"
+        },
+        {
+          "codigo": 4520002,
+          "descricao": "Serviços de lanternagem ou funilaria e pintura de veículos automotores"
+        },
+        {
+          "codigo": 4530703,
+          "descricao": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+        },
+        {
+          "codigo": 4530705,
+          "descricao": "Comércio a varejo de pneumáticos e câmaras-de-ar"
+        },
+        {
+          "codigo": 4732600,
+          "descricao": "Comércio varejista de lubrificantes"
+        },
+        {
+          "codigo": 5223100,
+          "descricao": "Estacionamento de veículos"
+        },
+        {
+          "codigo": 6493000,
+          "descricao": "Administração de consórcios para aquisição de bens e direitos"
+        },
+        {
+          "codigo": 7490104,
+          "descricao": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+        },
+        {
+          "codigo": 7711000,
+          "descricao": "Locação de automóveis sem condutor"
+        },
+        {
+          "codigo": 8299799,
+          "descricao": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+        }
+      ],
+      "natureza_juridica": "Sociedade Empresária Limitada",
+      "regime_tributario": [
+        {
+          "ano": 2017,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO REAL",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2018,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO REAL",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2019,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO REAL",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2020,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO REAL",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2021,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO REAL",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2022,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO REAL",
+          "quantidade_de_escrituracoes": 1
+        }
+      ],
+      "situacao_especial": "",
+      "opcao_pelo_simples": null,
+      "situacao_cadastral": 2,
+      "data_opcao_pelo_mei": null,
+      "data_exclusao_do_mei": null,
+      "cnae_fiscal_descricao": "Comércio a varejo de automóveis, camionetas e utilitários novos",
+      "codigo_municipio_ibge": 4202909,
+      "data_inicio_atividade": "2017-07-03",
+      "data_situacao_especial": null,
+      "data_opcao_pelo_simples": null,
+      "data_situacao_cadastral": "2017-07-03",
+      "nome_cidade_no_exterior": "",
+      "codigo_natureza_juridica": 2062,
+      "data_exclusao_do_simples": null,
+      "motivo_situacao_cadastral": 0,
+      "ente_federativo_responsavel": "",
+      "identificador_matriz_filial": 1,
+      "qualificacao_do_responsavel": 49,
+      "descricao_situacao_cadastral": "ATIVA",
+      "descricao_tipo_de_logradouro": "RODOVIA",
+      "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+      "descricao_identificador_matriz_filial": "MATRIZ"
+    }
+  },
+  "06220294000143": {
+    "cnpj": "06220294000143",
+    "updated_at": "2026-03-13T17:11:31.133995",
+    "payload": {
+      "uf": "SC",
+      "cep": "88200000",
+      "qsa": [],
+      "cnpj": "06220294000143",
+      "pais": null,
+      "email": null,
+      "porte": "MICRO EMPRESA",
+      "bairro": "CENTRO",
+      "numero": "",
+      "ddd_fax": "",
+      "municipio": "TIJUCAS",
+      "logradouro": "",
+      "cnae_fiscal": 9001906,
+      "codigo_pais": null,
+      "complemento": "",
+      "codigo_porte": 1,
+      "razao_social": "HYATAN HYURY FAGUNDES",
+      "nome_fantasia": "WA EVENTOS",
+      "capital_social": 30000,
+      "ddd_telefone_1": "",
+      "ddd_telefone_2": "",
+      "opcao_pelo_mei": false,
+      "codigo_municipio": 8355,
+      "cnaes_secundarios": [
+        {
+          "codigo": 7729202,
+          "descricao": "Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais"
+        },
+        {
+          "codigo": 7739099,
+          "descricao": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+        },
+        {
+          "codigo": 7739003,
+          "descricao": "Aluguel de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes"
+        },
+        {
+          "codigo": 7319099,
+          "descricao": "Outras atividades de publicidade não especificadas anteriormente"
+        }
+      ],
+      "natureza_juridica": "Empresário (Individual)",
+      "regime_tributario": [],
+      "situacao_especial": "",
+      "opcao_pelo_simples": true,
+      "situacao_cadastral": 2,
+      "data_opcao_pelo_mei": null,
+      "data_exclusao_do_mei": null,
+      "cnae_fiscal_descricao": "Atividades de sonorização e de iluminação",
+      "codigo_municipio_ibge": 4218004,
+      "data_inicio_atividade": "2004-04-19",
+      "data_situacao_especial": null,
+      "data_opcao_pelo_simples": "2007-07-01",
+      "data_situacao_cadastral": "2005-11-03",
+      "nome_cidade_no_exterior": "",
+      "codigo_natureza_juridica": 2135,
+      "data_exclusao_do_simples": null,
+      "motivo_situacao_cadastral": 0,
+      "ente_federativo_responsavel": "",
+      "identificador_matriz_filial": 1,
+      "qualificacao_do_responsavel": 50,
+      "descricao_situacao_cadastral": "ATIVA",
+      "descricao_tipo_de_logradouro": "",
+      "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+      "descricao_identificador_matriz_filial": "MATRIZ"
+    }
+  },
+  "22359375000185": {
+    "cnpj": "22359375000185",
+    "updated_at": "2026-03-13T17:11:31.384272",
+    "payload": {
+      "uf": "SC",
+      "cep": "88200070",
+      "qsa": [
+        {
+          "pais": null,
+          "nome_socio": "MALU MAURICIO",
+          "codigo_pais": null,
+          "faixa_etaria": "Entre 31 a 40 anos",
+          "cnpj_cpf_do_socio": "***905959**",
+          "qualificacao_socio": "Sócio-Administrador",
+          "codigo_faixa_etaria": 4,
+          "data_entrada_sociedade": "2025-09-19",
+          "identificador_de_socio": 2,
+          "cpf_representante_legal": "***000000**",
+          "nome_representante_legal": "",
+          "codigo_qualificacao_socio": 49,
+          "qualificacao_representante_legal": "Não informada",
+          "codigo_qualificacao_representante_legal": 0
+        }
+      ],
+      "cnpj": "22359375000185",
+      "pais": null,
+      "email": null,
+      "porte": "MICRO EMPRESA",
+      "bairro": "CENTRO",
+      "numero": "1432",
+      "ddd_fax": "4832634830",
+      "municipio": "TIJUCAS",
+      "logradouro": "BAYER FILHO",
+      "cnae_fiscal": 4729699,
+      "codigo_pais": null,
+      "complemento": "SALA 09",
+      "codigo_porte": 1,
+      "razao_social": "M L L COMERCIO DE MERCADORIAS, ALIMENTOS E SERVICOS LTDA",
+      "nome_fantasia": "M L L COMERCIO DE MERCADORIAS, ALIMENTOS E SERVICOS",
+      "capital_social": 500000,
+      "ddd_telefone_1": "4891586188",
+      "ddd_telefone_2": "",
+      "opcao_pelo_mei": false,
+      "codigo_municipio": 8355,
+      "cnaes_secundarios": [
+        {
+          "codigo": 7729202,
+          "descricao": "Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais"
+        },
+        {
+          "codigo": 7739099,
+          "descricao": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+        },
+        {
+          "codigo": 7739003,
+          "descricao": "Aluguel de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes"
+        },
+        {
+          "codigo": 8130300,
+          "descricao": "Atividades paisagísticas"
+        },
+        {
+          "codigo": 4530703,
+          "descricao": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+        },
+        {
+          "codigo": 4530705,
+          "descricao": "Comércio a varejo de pneumáticos e câmaras-de-ar"
+        },
+        {
+          "codigo": 4755502,
+          "descricao": "Comercio varejista de artigos de armarinho"
+        },
+        {
+          "codigo": 4755503,
+          "descricao": "Comercio varejista de artigos de cama, mesa e banho"
+        },
+        {
+          "codigo": 4761003,
+          "descricao": "Comércio varejista de artigos de papelaria"
+        },
+        {
+          "codigo": 4781400,
+          "descricao": "Comércio varejista de artigos do vestuário e acessórios"
+        },
+        {
+          "codigo": 4763602,
+          "descricao": "Comércio varejista de artigos esportivos"
+        },
+        {
+          "codigo": 4773300,
+          "descricao": "Comércio varejista de artigos médicos e ortopédicos"
+        },
+        {
+          "codigo": 4763601,
+          "descricao": "Comércio varejista de brinquedos e artigos recreativos"
+        },
+        {
+          "codigo": 4782201,
+          "descricao": "Comércio varejista de calçados"
+        },
+        {
+          "codigo": 4772500,
+          "descricao": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+        },
+        {
+          "codigo": 4744001,
+          "descricao": "Comércio varejista de ferragens e ferramentas"
+        },
+        {
+          "codigo": 4761001,
+          "descricao": "Comércio varejista de livros"
+        },
+        {
+          "codigo": 4744099,
+          "descricao": "Comércio varejista de materiais de construção em geral"
+        },
+        {
+          "codigo": 4711302,
+          "descricao": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados"
+        },
+        {
+          "codigo": 4754701,
+          "descricao": "Comércio varejista de móveis"
+        },
+        {
+          "codigo": 4759899,
+          "descricao": "Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente"
+        },
+        {
+          "codigo": 4789099,
+          "descricao": "Comércio varejista de outros produtos não especificados anteriormente"
+        },
+        {
+          "codigo": 4789002,
+          "descricao": "Comércio varejista de plantas e flores naturais"
+        },
+        {
+          "codigo": 4789005,
+          "descricao": "Comércio varejista de produtos saneantes domissanitários"
+        },
+        {
+          "codigo": 4743100,
+          "descricao": "Comércio varejista de vidros"
+        },
+        {
+          "codigo": 4753900,
+          "descricao": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+        },
+        {
+          "codigo": 4751201,
+          "descricao": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+        },
+        {
+          "codigo": 4756300,
+          "descricao": "Comércio varejista especializado de instrumentos musicais e acessórios"
+        },
+        {
+          "codigo": 4120400,
+          "descricao": "Construção de edifícios"
+        },
+        {
+          "codigo": 7410202,
+          "descricao": "Design de interiores"
+        },
+        {
+          "codigo": 5620101,
+          "descricao": "Fornecimento de alimentos preparados preponderantemente para empresas"
+        },
+        {
+          "codigo": 4321500,
+          "descricao": "Instalação e manutenção elétrica"
+        },
+        {
+          "codigo": 4329104,
+          "descricao": "Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos"
+        },
+        {
+          "codigo": 9319199,
+          "descricao": "Outras atividades esportivas não especificadas anteriormente"
+        },
+        {
+          "codigo": 9001902,
+          "descricao": "Produção musical"
+        },
+        {
+          "codigo": 5620102,
+          "descricao": "Serviços de alimentação para eventos e recepções - bufê"
+        },
+        {
+          "codigo": 8230001,
+          "descricao": "Serviços de organização de feiras, congressos, exposições e festas"
+        },
+        {
+          "codigo": 4330404,
+          "descricao": "Serviços de pintura de edifícios em geral"
+        }
+      ],
+      "natureza_juridica": "Sociedade Empresária Limitada",
+      "regime_tributario": [],
+      "situacao_especial": "",
+      "opcao_pelo_simples": true,
+      "situacao_cadastral": 2,
+      "data_opcao_pelo_mei": null,
+      "data_exclusao_do_mei": null,
+      "cnae_fiscal_descricao": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente",
+      "codigo_municipio_ibge": 4218004,
+      "data_inicio_atividade": "2015-04-29",
+      "data_situacao_especial": null,
+      "data_opcao_pelo_simples": "2015-04-29",
+      "data_situacao_cadastral": "2015-04-29",
+      "nome_cidade_no_exterior": "",
+      "codigo_natureza_juridica": 2062,
+      "data_exclusao_do_simples": null,
+      "motivo_situacao_cadastral": 0,
+      "ente_federativo_responsavel": "",
+      "identificador_matriz_filial": 1,
+      "qualificacao_do_responsavel": 49,
+      "descricao_situacao_cadastral": "ATIVA",
+      "descricao_tipo_de_logradouro": "AVENIDA",
+      "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+      "descricao_identificador_matriz_filial": "MATRIZ"
+    }
+  },
+  "40238202000190": {
+    "cnpj": "40238202000190",
+    "updated_at": "2026-03-13T17:11:31.755246",
+    "payload": {
+      "uf": "SC",
+      "cep": "88200210",
+      "qsa": [
+        {
+          "pais": null,
+          "nome_socio": "JOAURO SANTOS",
+          "codigo_pais": null,
+          "faixa_etaria": "Entre 41 a 50 anos",
+          "cnpj_cpf_do_socio": "***367819**",
+          "qualificacao_socio": "Sócio-Administrador",
+          "codigo_faixa_etaria": 5,
+          "data_entrada_sociedade": "2024-06-03",
+          "identificador_de_socio": 2,
+          "cpf_representante_legal": "***000000**",
+          "nome_representante_legal": "",
+          "codigo_qualificacao_socio": 49,
+          "qualificacao_representante_legal": "Não informada",
+          "codigo_qualificacao_representante_legal": 0
+        }
+      ],
+      "cnpj": "40238202000190",
+      "pais": null,
+      "email": null,
+      "porte": "EMPRESA DE PEQUENO PORTE",
+      "bairro": "CENTRO",
+      "numero": "92",
+      "ddd_fax": "",
+      "municipio": "TIJUCAS",
+      "logradouro": "MARIO CESAR CIRILO",
+      "cnae_fiscal": 7739003,
+      "codigo_pais": null,
+      "complemento": "",
+      "codigo_porte": 3,
+      "razao_social": "NOVO ESTILO LTDA",
+      "nome_fantasia": "NOVO ESTILO",
+      "capital_social": 700000,
+      "ddd_telefone_1": "4899196580",
+      "ddd_telefone_2": "",
+      "opcao_pelo_mei": false,
+      "codigo_municipio": 8355,
+      "cnaes_secundarios": [
+        {
+          "codigo": 4120400,
+          "descricao": "Construção de edifícios"
+        },
+        {
+          "codigo": 4212000,
+          "descricao": "Construção de obras de arte especiais"
+        },
+        {
+          "codigo": 4213800,
+          "descricao": "Obras de urbanização - ruas, praças e calçadas"
+        },
+        {
+          "codigo": 4313400,
+          "descricao": "Obras de terraplenagem"
+        },
+        {
+          "codigo": 4321500,
+          "descricao": "Instalação e manutenção elétrica"
+        },
+        {
+          "codigo": 4322301,
+          "descricao": "Instalações hidráulicas, sanitárias e de gás"
+        },
+        {
+          "codigo": 4322302,
+          "descricao": "Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração"
+        },
+        {
+          "codigo": 4322303,
+          "descricao": "Instalações de sistema de prevenção contra incêndio"
+        },
+        {
+          "codigo": 4329104,
+          "descricao": "Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos"
+        },
+        {
+          "codigo": 4330401,
+          "descricao": "Impermeabilização em obras de engenharia civil"
+        },
+        {
+          "codigo": 4330402,
+          "descricao": "Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material"
+        },
+        {
+          "codigo": 4330403,
+          "descricao": "Obras de acabamento em gesso e estuque"
+        },
+        {
+          "codigo": 4330404,
+          "descricao": "Serviços de pintura de edifícios em geral"
+        },
+        {
+          "codigo": 4330405,
+          "descricao": "Aplicação de revestimentos e de resinas em interiores e exteriores"
+        },
+        {
+          "codigo": 4330499,
+          "descricao": "Outras obras de acabamento da construção"
+        },
+        {
+          "codigo": 4399102,
+          "descricao": "Montagem e desmontagem de andaimes e outras estruturas temporárias"
+        },
+        {
+          "codigo": 4399103,
+          "descricao": "Obras de alvenaria"
+        },
+        {
+          "codigo": 4712100,
+          "descricao": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+        },
+        {
+          "codigo": 4742300,
+          "descricao": "Comércio varejista de material elétrico"
+        },
+        {
+          "codigo": 4744003,
+          "descricao": "Comércio varejista de materiais hidráulicos"
+        },
+        {
+          "codigo": 4744004,
+          "descricao": "Comércio varejista de cal, areia, pedra britada, tijolos e telhas"
+        },
+        {
+          "codigo": 4744005,
+          "descricao": "Comércio varejista de materiais de construção não especificados anteriormente"
+        },
+        {
+          "codigo": 4753900,
+          "descricao": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+        },
+        {
+          "codigo": 4756300,
+          "descricao": "Comércio varejista especializado de instrumentos musicais e acessórios"
+        },
+        {
+          "codigo": 5612100,
+          "descricao": "Serviços ambulantes de alimentação"
+        },
+        {
+          "codigo": 5620102,
+          "descricao": "Serviços de alimentação para eventos e recepções - bufê"
+        },
+        {
+          "codigo": 7721700,
+          "descricao": "Aluguel de equipamentos recreativos e esportivos"
+        },
+        {
+          "codigo": 7729202,
+          "descricao": "Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais"
+        },
+        {
+          "codigo": 8230001,
+          "descricao": "Serviços de organização de feiras, congressos, exposições e festas"
+        },
+        {
+          "codigo": 8592903,
+          "descricao": "Ensino de música"
+        },
+        {
+          "codigo": 9001902,
+          "descricao": "Produção musical"
+        },
+        {
+          "codigo": 9001906,
+          "descricao": "Atividades de sonorização e de iluminação"
+        }
+      ],
+      "natureza_juridica": "Sociedade Empresária Limitada",
+      "regime_tributario": [],
+      "situacao_especial": "",
+      "opcao_pelo_simples": false,
+      "situacao_cadastral": 2,
+      "data_opcao_pelo_mei": "2021-01-04",
+      "data_exclusao_do_mei": "2024-04-30",
+      "cnae_fiscal_descricao": "Aluguel de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes",
+      "codigo_municipio_ibge": 4218004,
+      "data_inicio_atividade": "2021-01-04",
+      "data_situacao_especial": null,
+      "data_opcao_pelo_simples": "2021-01-04",
+      "data_situacao_cadastral": "2021-01-04",
+      "nome_cidade_no_exterior": "",
+      "codigo_natureza_juridica": 2062,
+      "data_exclusao_do_simples": "2025-12-31",
+      "motivo_situacao_cadastral": 0,
+      "ente_federativo_responsavel": "",
+      "identificador_matriz_filial": 1,
+      "qualificacao_do_responsavel": 49,
+      "descricao_situacao_cadastral": "ATIVA",
+      "descricao_tipo_de_logradouro": "RUA",
+      "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+      "descricao_identificador_matriz_filial": "MATRIZ"
+    }
+  },
+  "29252265000169": {
+    "cnpj": "29252265000169",
+    "updated_at": "2026-03-13T17:11:32.003128",
+    "payload": {
+      "uf": "SC",
+      "cep": "89203212",
+      "qsa": [
+        {
+          "pais": null,
+          "nome_socio": "OSMAIR DE FARIAS MARTINS",
+          "codigo_pais": null,
+          "faixa_etaria": "Entre 61 a 70 anos",
+          "cnpj_cpf_do_socio": "***063429**",
+          "qualificacao_socio": "Sócio-Administrador",
+          "codigo_faixa_etaria": 7,
+          "data_entrada_sociedade": "2017-12-11",
+          "identificador_de_socio": 2,
+          "cpf_representante_legal": "***000000**",
+          "nome_representante_legal": "",
+          "codigo_qualificacao_socio": 49,
+          "qualificacao_representante_legal": "Não informada",
+          "codigo_qualificacao_representante_legal": 0
+        },
+        {
+          "pais": null,
+          "nome_socio": "VIVIANE DE FATIMA LEITE DO PRADO",
+          "codigo_pais": null,
+          "faixa_etaria": "Entre 51 a 60 anos",
+          "cnpj_cpf_do_socio": "***436549**",
+          "qualificacao_socio": "Sócio",
+          "codigo_faixa_etaria": 6,
+          "data_entrada_sociedade": "2019-07-23",
+          "identificador_de_socio": 2,
+          "cpf_representante_legal": "***000000**",
+          "nome_representante_legal": "",
+          "codigo_qualificacao_socio": 22,
+          "qualificacao_representante_legal": "Não informada",
+          "codigo_qualificacao_representante_legal": 0
+        }
+      ],
+      "cnpj": "29252265000169",
+      "pais": null,
+      "email": null,
+      "porte": "EMPRESA DE PEQUENO PORTE",
+      "bairro": "ATIRADORES",
+      "numero": "730",
+      "ddd_fax": "",
+      "municipio": "JOINVILLE",
+      "logradouro": "OTTOKAR DOERFFEL",
+      "cnae_fiscal": 4299501,
+      "codigo_pais": null,
+      "complemento": "SALA 203",
+      "codigo_porte": 3,
+      "razao_social": "TURFGREEN COMERCIO DE GRAMA SINTETICA E CONSTRUCAO DE QUADRA ESPORTIVA LTDA.",
+      "nome_fantasia": "TURFGREEN GRAMA SINTETICA LTDA.",
+      "capital_social": 750000,
+      "ddd_telefone_1": "4799121418",
+      "ddd_telefone_2": "4799261665",
+      "opcao_pelo_mei": false,
+      "codigo_municipio": 8179,
+      "cnaes_secundarios": [
+        {
+          "codigo": 4789099,
+          "descricao": "Comércio varejista de outros produtos não especificados anteriormente"
+        },
+        {
+          "codigo": 9311500,
+          "descricao": "Gestão de instalações de esportes"
+        }
+      ],
+      "natureza_juridica": "Sociedade Empresária Limitada",
+      "regime_tributario": [],
+      "situacao_especial": "",
+      "opcao_pelo_simples": false,
+      "situacao_cadastral": 2,
+      "data_opcao_pelo_mei": null,
+      "data_exclusao_do_mei": null,
+      "cnae_fiscal_descricao": "Construção de instalações esportivas e recreativas",
+      "codigo_municipio_ibge": 4209102,
+      "data_inicio_atividade": "2017-12-11",
+      "data_situacao_especial": null,
+      "data_opcao_pelo_simples": "2018-01-01",
+      "data_situacao_cadastral": "2017-12-11",
+      "nome_cidade_no_exterior": "",
+      "codigo_natureza_juridica": 2062,
+      "data_exclusao_do_simples": "2022-12-31",
+      "motivo_situacao_cadastral": 0,
+      "ente_federativo_responsavel": "",
+      "identificador_matriz_filial": 1,
+      "qualificacao_do_responsavel": 49,
+      "descricao_situacao_cadastral": "ATIVA",
+      "descricao_tipo_de_logradouro": "RUA",
+      "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+      "descricao_identificador_matriz_filial": "MATRIZ"
+    }
+  },
+  "14121231000168": {
+    "cnpj": "14121231000168",
+    "updated_at": "2026-03-13T17:11:32.248494",
+    "payload": {
+      "uf": "SC",
+      "cep": "88010001",
+      "qsa": [
+        {
+          "pais": null,
+          "nome_socio": "NOEMI GOMES GUIMARAES BLAU",
+          "codigo_pais": null,
+          "faixa_etaria": "Entre 71 a 80 anos",
+          "cnpj_cpf_do_socio": "***109749**",
+          "qualificacao_socio": "Sócio-Administrador",
+          "codigo_faixa_etaria": 8,
+          "data_entrada_sociedade": "2015-04-07",
+          "identificador_de_socio": 2,
+          "cpf_representante_legal": "***000000**",
+          "nome_representante_legal": "",
+          "codigo_qualificacao_socio": 49,
+          "qualificacao_representante_legal": "Não informada",
+          "codigo_qualificacao_representante_legal": 0
+        }
+      ],
+      "cnpj": "14121231000168",
+      "pais": null,
+      "email": null,
+      "porte": "EMPRESA DE PEQUENO PORTE",
+      "bairro": "CENTRO",
+      "numero": "649",
+      "ddd_fax": "",
+      "municipio": "FLORIANOPOLIS",
+      "logradouro": "FELIPE SCHMIDT",
+      "cnae_fiscal": 4120400,
+      "codigo_pais": null,
+      "complemento": "EDIF: TORRE DA COLINA;",
+      "codigo_porte": 3,
+      "razao_social": "TRIO CONSTRUTORA E INCORPORADORA LTDA",
+      "nome_fantasia": "TRIO CONSTRUTORA E INCORPORADORA LTDA",
+      "capital_social": 500000,
+      "ddd_telefone_1": "4832498000",
+      "ddd_telefone_2": "",
+      "opcao_pelo_mei": null,
+      "codigo_municipio": 8105,
+      "cnaes_secundarios": [
+        {
+          "codigo": 4110700,
+          "descricao": "Incorporação de empreendimentos imobiliários"
+        },
+        {
+          "codigo": 4213800,
+          "descricao": "Obras de urbanização - ruas, praças e calçadas"
+        },
+        {
+          "codigo": 4321500,
+          "descricao": "Instalação e manutenção elétrica"
+        },
+        {
+          "codigo": 4330402,
+          "descricao": "Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material"
+        },
+        {
+          "codigo": 4330403,
+          "descricao": "Obras de acabamento em gesso e estuque"
+        },
+        {
+          "codigo": 4330404,
+          "descricao": "Serviços de pintura de edifícios em geral"
+        },
+        {
+          "codigo": 4330405,
+          "descricao": "Aplicação de revestimentos e de resinas em interiores e exteriores"
+        },
+        {
+          "codigo": 6810201,
+          "descricao": "Compra e venda de imóveis próprios"
+        },
+        {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        }
+      ],
+      "natureza_juridica": "Sociedade Empresária Limitada",
+      "regime_tributario": [
+        {
+          "ano": 2017,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO PRESUMIDO",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2018,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO PRESUMIDO",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2019,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO PRESUMIDO",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2020,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO PRESUMIDO",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2021,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO PRESUMIDO",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2022,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO PRESUMIDO",
+          "quantidade_de_escrituracoes": 1
+        }
+      ],
+      "situacao_especial": "",
+      "opcao_pelo_simples": null,
+      "situacao_cadastral": 2,
+      "data_opcao_pelo_mei": null,
+      "data_exclusao_do_mei": null,
+      "cnae_fiscal_descricao": "Construção de edifícios",
+      "codigo_municipio_ibge": 4205407,
+      "data_inicio_atividade": "2011-07-27",
+      "data_situacao_especial": null,
+      "data_opcao_pelo_simples": null,
+      "data_situacao_cadastral": "2011-07-27",
+      "nome_cidade_no_exterior": "",
+      "codigo_natureza_juridica": 2062,
+      "data_exclusao_do_simples": null,
+      "motivo_situacao_cadastral": 0,
+      "ente_federativo_responsavel": "",
+      "identificador_matriz_filial": 1,
+      "qualificacao_do_responsavel": 49,
+      "descricao_situacao_cadastral": "ATIVA",
+      "descricao_tipo_de_logradouro": "RUA",
+      "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+      "descricao_identificador_matriz_filial": "MATRIZ"
+    }
+  },
+  "72254576000196": {
+    "cnpj": "72254576000196",
+    "updated_at": "2026-03-13T17:11:32.489972",
+    "payload": {
+      "uf": "SC",
+      "cep": "88200000",
+      "qsa": [],
+      "cnpj": "72254576000196",
+      "pais": null,
+      "email": null,
+      "porte": "DEMAIS",
+      "bairro": "CENTRO",
+      "numero": "99",
+      "ddd_fax": "",
+      "municipio": "TIJUCAS",
+      "logradouro": "HERCILIO LUIZ",
+      "cnae_fiscal": 9319101,
+      "codigo_pais": null,
+      "complemento": "",
+      "codigo_porte": 5,
+      "razao_social": "FUNDACAO MUNICIPAL DE ESPORTES",
+      "nome_fantasia": "",
+      "capital_social": 0,
+      "ddd_telefone_1": "",
+      "ddd_telefone_2": "",
+      "opcao_pelo_mei": null,
+      "codigo_municipio": 8355,
+      "cnaes_secundarios": [
+        {
+          "codigo": 9319199,
+          "descricao": "Outras atividades esportivas não especificadas anteriormente"
+        }
+      ],
+      "natureza_juridica": "Fundação Pública de Direito Público Municipal",
+      "regime_tributario": [],
+      "situacao_especial": "",
+      "opcao_pelo_simples": null,
+      "situacao_cadastral": 2,
+      "data_opcao_pelo_mei": null,
+      "data_exclusao_do_mei": null,
+      "cnae_fiscal_descricao": "Produção e promoção de eventos esportivos",
+      "codigo_municipio_ibge": 4218004,
+      "data_inicio_atividade": "1993-05-18",
+      "data_situacao_especial": null,
+      "data_opcao_pelo_simples": null,
+      "data_situacao_cadastral": "2022-06-20",
+      "nome_cidade_no_exterior": "",
+      "codigo_natureza_juridica": 1155,
+      "data_exclusao_do_simples": null,
+      "motivo_situacao_cadastral": 0,
+      "ente_federativo_responsavel": "TIJUCAS - SC",
+      "identificador_matriz_filial": 1,
+      "qualificacao_do_responsavel": 16,
+      "descricao_situacao_cadastral": "ATIVA",
+      "descricao_tipo_de_logradouro": "AVENIDA",
+      "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+      "descricao_identificador_matriz_filial": "MATRIZ"
+    }
+  },
+  "01293882000193": {
+    "cnpj": "01293882000193",
+    "updated_at": "2026-03-13T17:11:32.758380",
+    "payload": {
+      "uf": "SC",
+      "cep": "88330003",
+      "qsa": [
+        {
+          "pais": null,
+          "nome_socio": "CARLOS JOSE KOELLN",
+          "codigo_pais": null,
+          "faixa_etaria": "Entre 61 a 70 anos",
+          "cnpj_cpf_do_socio": "***279669**",
+          "qualificacao_socio": "Presidente",
+          "codigo_faixa_etaria": 7,
+          "data_entrada_sociedade": "2005-09-02",
+          "identificador_de_socio": 2,
+          "cpf_representante_legal": "***000000**",
+          "nome_representante_legal": "",
+          "codigo_qualificacao_socio": 16,
+          "qualificacao_representante_legal": "Não informada",
+          "codigo_qualificacao_representante_legal": 0
+        }
+      ],
+      "cnpj": "01293882000193",
+      "pais": null,
+      "email": null,
+      "porte": "DEMAIS",
+      "bairro": "CENTRO",
+      "numero": "350",
+      "ddd_fax": "",
+      "municipio": "BALNEARIO CAMBORIU",
+      "logradouro": "2480",
+      "cnae_fiscal": 9430800,
+      "codigo_pais": null,
+      "complemento": "APTO 701",
+      "codigo_porte": 5,
+      "razao_social": "ASSOCIACAO DE ARBITROS DE BALNEARIO CAMBORIU",
+      "nome_fantasia": "",
+      "capital_social": 0,
+      "ddd_telefone_1": "0473674993",
+      "ddd_telefone_2": "",
+      "opcao_pelo_mei": null,
+      "codigo_municipio": 8039,
+      "cnaes_secundarios": [
+        {
+          "codigo": 9493600,
+          "descricao": "Atividades de organizações associativas ligadas à cultura e à arte"
+        },
+        {
+          "codigo": 9499500,
+          "descricao": "Atividades associativas não especificadas anteriormente"
+        }
+      ],
+      "natureza_juridica": "Associação Privada",
+      "regime_tributario": [
+        {
+          "ano": 2016,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "ISENTA DO IRPJ",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2017,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "ISENTA DO IRPJ",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2018,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "ISENTA DO IRPJ",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2019,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "ISENTA DO IRPJ",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2020,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "ISENTA DO IRPJ",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2021,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "ISENTA DO IRPJ",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2022,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "ISENTA DO IRPJ",
+          "quantidade_de_escrituracoes": 1
+        }
+      ],
+      "situacao_especial": "",
+      "opcao_pelo_simples": null,
+      "situacao_cadastral": 2,
+      "data_opcao_pelo_mei": null,
+      "data_exclusao_do_mei": null,
+      "cnae_fiscal_descricao": "Atividades de associações de defesa de direitos sociais",
+      "codigo_municipio_ibge": 4202008,
+      "data_inicio_atividade": "1996-07-08",
+      "data_situacao_especial": null,
+      "data_opcao_pelo_simples": null,
+      "data_situacao_cadastral": "2005-11-03",
+      "nome_cidade_no_exterior": "",
+      "codigo_natureza_juridica": 3999,
+      "data_exclusao_do_simples": null,
+      "motivo_situacao_cadastral": 0,
+      "ente_federativo_responsavel": "",
+      "identificador_matriz_filial": 1,
+      "qualificacao_do_responsavel": 16,
+      "descricao_situacao_cadastral": "ATIVA",
+      "descricao_tipo_de_logradouro": "RUA",
+      "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+      "descricao_identificador_matriz_filial": "MATRIZ"
+    }
+  },
+  "83558767000168": {
+    "cnpj": "83558767000168",
+    "updated_at": "2026-03-13T17:11:33.121669",
+    "payload": {
+      "uf": "SC",
+      "cep": "88200000",
+      "qsa": [],
+      "cnpj": "83558767000168",
+      "pais": null,
+      "email": null,
+      "porte": "EMPRESA DE PEQUENO PORTE",
+      "bairro": "PRACA",
+      "numero": "",
+      "ddd_fax": "",
+      "municipio": "TIJUCAS",
+      "logradouro": "",
+      "cnae_fiscal": 4712100,
+      "codigo_pais": null,
+      "complemento": "",
+      "codigo_porte": 3,
+      "razao_social": "BERNARDINO INDALICIO DA SILVA",
+      "nome_fantasia": "BERINSIL",
+      "capital_social": 300000,
+      "ddd_telefone_1": "",
+      "ddd_telefone_2": "",
+      "opcao_pelo_mei": false,
+      "codigo_municipio": 8355,
+      "cnaes_secundarios": [
+        {
+          "codigo": 4530705,
+          "descricao": "Comércio a varejo de pneumáticos e câmaras-de-ar"
+        },
+        {
+          "codigo": 4642702,
+          "descricao": "Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho"
+        },
+        {
+          "codigo": 4643501,
+          "descricao": "Comércio atacadista de calçados"
+        },
+        {
+          "codigo": 4649499,
+          "descricao": "Comércio atacadista de outros equipamentos e artigos de uso pessoal e doméstico não especificados anteriormente"
+        },
+        {
+          "codigo": 4661300,
+          "descricao": "Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário; partes e peças"
+        },
+        {
+          "codigo": 4669999,
+          "descricao": "Comércio atacadista de outras máquinas e equipamentos não especificados anteriormente; partes e peças"
+        },
+        {
+          "codigo": 4679601,
+          "descricao": "Comércio atacadista de tintas, vernizes e similares"
+        },
+        {
+          "codigo": 4684299,
+          "descricao": "Comércio atacadista de outros produtos químicos e petroquímicos não especificados anteriormente"
+        },
+        {
+          "codigo": 4713004,
+          "descricao": "Lojas de departamentos ou magazines, exceto lojas francas (Duty free)"
+        },
+        {
+          "codigo": 4723700,
+          "descricao": "Comércio varejista de bebidas"
+        },
+        {
+          "codigo": 4742300,
+          "descricao": "Comércio varejista de material elétrico"
+        },
+        {
+          "codigo": 4744001,
+          "descricao": "Comércio varejista de ferragens e ferramentas"
+        },
+        {
+          "codigo": 4744099,
+          "descricao": "Comércio varejista de materiais de construção em geral"
+        },
+        {
+          "codigo": 4751201,
+          "descricao": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+        },
+        {
+          "codigo": 4753900,
+          "descricao": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+        },
+        {
+          "codigo": 4755502,
+          "descricao": "Comercio varejista de artigos de armarinho"
+        },
+        {
+          "codigo": 4755503,
+          "descricao": "Comercio varejista de artigos de cama, mesa e banho"
+        },
+        {
+          "codigo": 4756300,
+          "descricao": "Comércio varejista especializado de instrumentos musicais e acessórios"
+        },
+        {
+          "codigo": 4761001,
+          "descricao": "Comércio varejista de livros"
+        },
+        {
+          "codigo": 4761002,
+          "descricao": "Comércio varejista de jornais e revistas"
+        },
+        {
+          "codigo": 4761003,
+          "descricao": "Comércio varejista de artigos de papelaria"
+        },
+        {
+          "codigo": 4763601,
+          "descricao": "Comércio varejista de brinquedos e artigos recreativos"
+        },
+        {
+          "codigo": 4789002,
+          "descricao": "Comércio varejista de plantas e flores naturais"
+        },
+        {
+          "codigo": 4789005,
+          "descricao": "Comércio varejista de produtos saneantes domissanitários"
+        },
+        {
+          "codigo": 4789006,
+          "descricao": "Comércio varejista de fogos de artifício e artigos pirotécnicos"
+        },
+        {
+          "codigo": 7729202,
+          "descricao": "Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais"
+        },
+        {
+          "codigo": 7739001,
+          "descricao": "Aluguel de máquinas e equipamentos para extração de minérios e petróleo, sem operador"
+        },
+        {
+          "codigo": 7739099,
+          "descricao": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+        }
+      ],
+      "natureza_juridica": "Empresário (Individual)",
+      "regime_tributario": [],
+      "situacao_especial": "",
+      "opcao_pelo_simples": true,
+      "situacao_cadastral": 2,
+      "data_opcao_pelo_mei": null,
+      "data_exclusao_do_mei": null,
+      "cnae_fiscal_descricao": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns",
+      "codigo_municipio_ibge": 4218004,
+      "data_inicio_atividade": "1978-07-21",
+      "data_situacao_especial": null,
+      "data_opcao_pelo_simples": "2007-07-01",
+      "data_situacao_cadastral": "2003-12-12",
+      "nome_cidade_no_exterior": "",
+      "codigo_natureza_juridica": 2135,
+      "data_exclusao_do_simples": null,
+      "motivo_situacao_cadastral": 0,
+      "ente_federativo_responsavel": "",
+      "identificador_matriz_filial": 1,
+      "qualificacao_do_responsavel": 50,
+      "descricao_situacao_cadastral": "ATIVA",
+      "descricao_tipo_de_logradouro": "",
+      "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+      "descricao_identificador_matriz_filial": "MATRIZ"
+    }
+  },
+  "07229257000169": {
+    "cnpj": "07229257000169",
+    "updated_at": "2026-03-13T17:11:33.370005",
+    "payload": {
+      "uf": "SC",
+      "cep": "88200000",
+      "qsa": [
+        {
+          "pais": null,
+          "nome_socio": "ESTER MARIA FERREIRA",
+          "codigo_pais": null,
+          "faixa_etaria": "Entre 61 a 70 anos",
+          "cnpj_cpf_do_socio": "***504699**",
+          "qualificacao_socio": "Administrador",
+          "codigo_faixa_etaria": 7,
+          "data_entrada_sociedade": "2024-10-22",
+          "identificador_de_socio": 2,
+          "cpf_representante_legal": "***000000**",
+          "nome_representante_legal": "",
+          "codigo_qualificacao_socio": 5,
+          "qualificacao_representante_legal": "Não informada",
+          "codigo_qualificacao_representante_legal": 0
+        },
+        {
+          "pais": null,
+          "nome_socio": "REBELO HOLDING LTDA",
+          "codigo_pais": null,
+          "faixa_etaria": "Não se aplica",
+          "cnpj_cpf_do_socio": "27930161000130",
+          "qualificacao_socio": "Sócio",
+          "codigo_faixa_etaria": 0,
+          "data_entrada_sociedade": "2024-10-22",
+          "identificador_de_socio": 1,
+          "cpf_representante_legal": "***903279**",
+          "nome_representante_legal": "SEBASTIAO REBELO NETO",
+          "codigo_qualificacao_socio": 22,
+          "qualificacao_representante_legal": "Administrador",
+          "codigo_qualificacao_representante_legal": 5
+        },
+        {
+          "pais": null,
+          "nome_socio": "THIAGO SEBASTIAN REBELO",
+          "codigo_pais": null,
+          "faixa_etaria": "Entre 31 a 40 anos",
+          "cnpj_cpf_do_socio": "***107099**",
+          "qualificacao_socio": "Administrador",
+          "codigo_faixa_etaria": 4,
+          "data_entrada_sociedade": "2021-07-28",
+          "identificador_de_socio": 2,
+          "cpf_representante_legal": "***000000**",
+          "nome_representante_legal": "",
+          "codigo_qualificacao_socio": 5,
+          "qualificacao_representante_legal": "Não informada",
+          "codigo_qualificacao_representante_legal": 0
+        }
+      ],
+      "cnpj": "07229257000169",
+      "pais": null,
+      "email": null,
+      "porte": "DEMAIS",
+      "bairro": "UNIVERSITARIO",
+      "numero": "2095",
+      "ddd_fax": "4832631794",
+      "municipio": "TIJUCAS",
+      "logradouro": "GERALDO REBELO",
+      "cnae_fiscal": 4930203,
+      "codigo_pais": null,
+      "complemento": "FUNDOS",
+      "codigo_porte": 5,
+      "razao_social": "REBELO GAS E AGUA LTDA",
+      "nome_fantasia": "REBELO GAS E AGUA",
+      "capital_social": 400000,
+      "ddd_telefone_1": "4832632479",
+      "ddd_telefone_2": "4832631794",
+      "opcao_pelo_mei": false,
+      "codigo_municipio": 8355,
+      "cnaes_secundarios": [
+        {
+          "codigo": 4635401,
+          "descricao": "Comércio atacadista de água mineral"
+        },
+        {
+          "codigo": 4682600,
+          "descricao": "Comércio atacadista de gás liqüefeito de petróleo (GLP)"
+        },
+        {
+          "codigo": 4723700,
+          "descricao": "Comércio varejista de bebidas"
+        },
+        {
+          "codigo": 4784900,
+          "descricao": "Comércio varejista de gás liqüefeito de petróleo (GLP)"
+        },
+        {
+          "codigo": 4789099,
+          "descricao": "Comércio varejista de outros produtos não especificados anteriormente"
+        },
+        {
+          "codigo": 4930202,
+          "descricao": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional"
+        }
+      ],
+      "natureza_juridica": "Sociedade Empresária Limitada",
+      "regime_tributario": [
+        {
+          "ano": 2020,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO REAL",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2021,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO REAL",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2022,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO REAL",
+          "quantidade_de_escrituracoes": 1
+        }
+      ],
+      "situacao_especial": "",
+      "opcao_pelo_simples": false,
+      "situacao_cadastral": 2,
+      "data_opcao_pelo_mei": null,
+      "data_exclusao_do_mei": null,
+      "cnae_fiscal_descricao": "Transporte rodoviário de produtos perigosos",
+      "codigo_municipio_ibge": 4218004,
+      "data_inicio_atividade": "2005-02-14",
+      "data_situacao_especial": null,
+      "data_opcao_pelo_simples": "2020-01-01",
+      "data_situacao_cadastral": null,
+      "nome_cidade_no_exterior": "",
+      "codigo_natureza_juridica": 2062,
+      "data_exclusao_do_simples": "2020-09-30",
+      "motivo_situacao_cadastral": 0,
+      "ente_federativo_responsavel": "",
+      "identificador_matriz_filial": 1,
+      "qualificacao_do_responsavel": 5,
+      "descricao_situacao_cadastral": "ATIVA",
+      "descricao_tipo_de_logradouro": "RUA",
+      "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+      "descricao_identificador_matriz_filial": "MATRIZ"
+    }
+  },
+  "17417928000179": {
+    "cnpj": "17417928000179",
+    "updated_at": "2026-03-13T17:11:33.620112",
+    "payload": {
+      "uf": "AM",
+      "cep": "69075845",
+      "qsa": [
+        {
+          "pais": null,
+          "nome_socio": "ALEXIS SUREN TCHOLAKIAN MORALES",
+          "codigo_pais": null,
+          "faixa_etaria": "Entre 51 a 60 anos",
+          "cnpj_cpf_do_socio": "***509289**",
+          "qualificacao_socio": "Sócio-Administrador",
+          "codigo_faixa_etaria": 6,
+          "data_entrada_sociedade": "2013-01-16",
+          "identificador_de_socio": 2,
+          "cpf_representante_legal": "***000000**",
+          "nome_representante_legal": "",
+          "codigo_qualificacao_socio": 49,
+          "qualificacao_representante_legal": "Não informada",
+          "codigo_qualificacao_representante_legal": 0
+        }
+      ],
+      "cnpj": "17417928000179",
+      "pais": null,
+      "email": null,
+      "porte": "DEMAIS",
+      "bairro": "DISTRITO INDUSTRIAL II",
+      "numero": "2421",
+      "ddd_fax": "",
+      "municipio": "MANAUS",
+      "logradouro": "AZALEIA",
+      "cnae_fiscal": 2824101,
+      "codigo_pais": null,
+      "complemento": "",
+      "codigo_porte": 5,
+      "razao_social": "VENTISOL DA AMAZONIA INDUSTRIA DE APARELHOS ELETRICOS LTDA",
+      "nome_fantasia": "VENTISOL",
+      "capital_social": 467377000,
+      "ddd_telefone_1": "9230291000",
+      "ddd_telefone_2": "",
+      "opcao_pelo_mei": null,
+      "codigo_municipio": 255,
+      "cnaes_secundarios": [
+        {
+          "codigo": 2759799,
+          "descricao": "Fabricação de outros aparelhos eletrodomésticos não especificados anteriormente, peças e acessórios"
+        },
+        {
+          "codigo": 2790299,
+          "descricao": "Fabricação de outros equipamentos e aparelhos elétricos não especificados anteriormente"
+        },
+        {
+          "codigo": 2824102,
+          "descricao": "Fabricação de aparelhos e equipamentos de ar condicionado para uso não-industrial"
+        },
+        {
+          "codigo": 3321000,
+          "descricao": "Instalação de máquinas e equipamentos industriais"
+        },
+        {
+          "codigo": 4649401,
+          "descricao": "Comércio atacadista de equipamentos elétricos de uso pessoal e doméstico"
+        },
+        {
+          "codigo": 4669999,
+          "descricao": "Comércio atacadista de outras máquinas e equipamentos não especificados anteriormente; partes e peças"
+        },
+        {
+          "codigo": 8291100,
+          "descricao": "Atividades de cobranças e informações cadastrais"
+        }
+      ],
+      "natureza_juridica": "Sociedade Empresária Limitada",
+      "regime_tributario": [
+        {
+          "ano": 2017,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO PRESUMIDO",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2018,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO REAL",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2019,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO REAL",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2020,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO REAL",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2021,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO REAL",
+          "quantidade_de_escrituracoes": 1
+        },
+        {
+          "ano": 2022,
+          "cnpj_da_scp": null,
+          "forma_de_tributacao": "LUCRO REAL",
+          "quantidade_de_escrituracoes": 1
+        }
+      ],
+      "situacao_especial": "",
+      "opcao_pelo_simples": null,
+      "situacao_cadastral": 2,
+      "data_opcao_pelo_mei": null,
+      "data_exclusao_do_mei": null,
+      "cnae_fiscal_descricao": "Fabricação de aparelhos e equipamentos de ar condicionado para uso industrial",
+      "codigo_municipio_ibge": 1302603,
+      "data_inicio_atividade": "2013-01-16",
+      "data_situacao_especial": null,
+      "data_opcao_pelo_simples": null,
+      "data_situacao_cadastral": "2013-01-16",
+      "nome_cidade_no_exterior": "",
+      "codigo_natureza_juridica": 2062,
+      "data_exclusao_do_simples": null,
+      "motivo_situacao_cadastral": 0,
+      "ente_federativo_responsavel": "",
+      "identificador_matriz_filial": 1,
+      "qualificacao_do_responsavel": 49,
+      "descricao_situacao_cadastral": "ATIVA",
+      "descricao_tipo_de_logradouro": "RUA",
+      "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+      "descricao_identificador_matriz_filial": "MATRIZ"
+    }
+  }
+}

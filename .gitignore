@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database files (legacy - these are in legacy/data/)
+*.db
+*.sqlite
+*.sqlite3
+
+# Large JSON data (legacy - these are in legacy/data/)
+# Keep tracked in legacy/data/ but ignore if accidentally placed elsewhere
+!/legacy/data/*.json
+!/legacy/data/*.db
+!/legacy/data/*.sqlite
+!/data/fixtures/*.json
+
+# Node modules (legacy frontend)
+node_modules/
+legacy/frontend/node_modules/
+
+# Playwright
+/test-results/
+/playwright-report/
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# mypy
+.mypy_cache/
+
+# ruff
+.ruff_cache/
+
+# Secrets
+.secrets.baseline
+
+# Logs
+*.log
+
+# Docker volumes
+postgres_data/
+rabbitmq_data/
+redis_data/
+
+# Legacy large files (keep out of git)
+legacy/frontend/node_modules/
+legacy/frontend/dist/
+legacy/frontend/.git/
+legacy/integrations/
+legacy/data/*.json
+legacy/data/*.db
+legacy/data/*.sqlite
+legacy/frontend/*.db
+legacy/frontend/*.lockb

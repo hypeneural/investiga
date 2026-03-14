@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://tijucas.atende.net/transparencia/item/despesas-publicas",
+    "status": 302,
+    "type": "text/html; charset=iso-8859-1"
+  },
+  {
+    "url": "https://tijucas.atende.net/transparencia/grupo/",
+    "status": 200,
+    "type": "text/html; charset=iso-8859-1"
+  },
+  {
+    "url": "https://tijucas.atende.net/estrutura/fonts/fonts_rubik.ttf",
+    "status": 200,
+    "type": "font/ttf"
+  },
+  {
+    "url": "https://tijucas.atende.net/estrutura/fonts/fonts_fa-solid-900.woff2",
+    "status": 200,
+    "type": "font/woff2"
+  },
+  {
+    "url": "https://vlibras.gov.br/app/vlibras-plugin.js",
+    "status": 302,
+    "type": ""
+  },
+  {
+    "url": "https://tijucas.atende.net/transparencia/grupo/atende.php?rot=49445&aca=101&processo=getConteudoAvisoManutencao&ajax=t&cachePrevent=83cdc1ef38",
+    "status": 200,
+    "type": "text/html; charset=iso-8859-1"
+  },
+  {
+    "url": "https://vlibras.gov.br/app//assets/access_icon.svg",
+    "status": 302,
+    "type": ""
+  },
+  {
+    "url": "https://vlibras.gov.br/app//assets/access_popup.jpg",
+    "status": 302,
+    "type": ""
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/spbgovbr-vlibras/vlibras-portal@dev/app//assets/access_popup.jpg",
+    "status": 301,
+    "type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/spbgovbr-vlibras/vlibras-portal@dev/app//assets/access_icon.svg",
+    "status": 301,
+    "type": "text/plain; charset=utf-8"
+  }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "regra": "CONTA_BANCARIA_COMPARTILHADA",
+        "severidade": "critica",
+        "tier": "T1/T2",
+        "titulo": "Conta bancária associada a múltiplos credores",
+        "descricao": "A conta bancária [001|1234|99999-9] foi informada no pagamento de 16 CNPJs distintos.",
+        "evidencias": {
+            "banco_agencia_conta": "001|1234|99999-9",
+            "quantidade_cnpjs_diferentes": 16,
+            "cnpjs_recebedores": [
+                "50.668.722/0019-16",
+                "015.255.695-89",
+                "050.398.349-77",
+                "46.449.285/0001-43",
+                "036.377.739-37",
+                "22.768.661/0001-02",
+                "729.720.761-68",
+                "75.846.873/0001-19",
+                "06.972.402/0001-34",
+                "07.229.257/0001-69",
+                "774.332.469-91",
+                "092.218.139-08",
+                "29.222.667/0001-10",
+                "955.046.641-87",
+                "082.028.769-58",
+                "32.597.474/0001-59"
+            ],
+            "valor_comum_pago": 121294798.0
+        },
+        "acao_auditoria": [
+            "Validar se pertencem ao mesmo grupo econômico / Matriz e Filial.",
+            "Verificar contrato social e dados bancários do processo.",
+            "Solicitar documentação de empenhamentos e procurações bancárias."
+        ]
+    },
+    {
+        "regra": "CONTA_BANCARIA_COMPARTILHADA",
+        "severidade": "critica",
+        "tier": "T1/T2",
+        "titulo": "Conta bancária associada a múltiplos credores",
+        "descricao": "A conta bancária [104|1795|575859332-6] foi informada no pagamento de 12 CNPJs distintos.",
+        "evidencias": {
+            "banco_agencia_conta": "104|1795|575859332-6",
+            "quantidade_cnpjs_diferentes": 12,
+            "cnpjs_recebedores": [
+                "50.668.722/0019-16",
+                "006.541.569-80",
+                "579.318.101-63",
+                "11.669.001/0001-40",
+                "408.832.132-49",
+                "00.000.000/2864-94",
+                "07.953.689/0001-18",
+                "065.766.903-20",
+                "609.584.640-49",
+                "052.273.259-36",
+                "823.361.480-72",
+                "00.360.305/0001-04"
+            ],
+            "valor_comum_pago": 2194831.0
+        },
+        "acao_auditoria": [
+            "Validar se pertencem ao mesmo grupo econômico / Matriz e Filial.",
+            "Verificar contrato social e dados bancários do processo.",
+            "Solicitar documentação de empenhamentos e procurações bancárias."
+        ]
+    },
+    {
+        "regra": "CONTA_BANCARIA_COMPARTILHADA",
+        "severidade": "critica",
+        "tier": "T1/T2",
+        "titulo": "Conta bancária associada a múltiplos credores",
+        "descricao": "A conta bancária [341|0001|12345-6] foi informada no pagamento de 8 CNPJs distintos.",
+        "evidencias": {
+            "banco_agencia_conta": "341|0001|12345-6",
+            "quantidade_cnpjs_diferentes": 8,
+            "cnpjs_recebedores": [
+                "02.202.456/0001-60",
+                "910.395.259-20",
+                "54.431.559/0001-03",
+                "00.360.305/1795-97",
+                "10.241.402/0001-31",
+                "48.399.856/0001-08",
+                "17.184.520/0001-02",
+                "00.360.305/0001-04"
+            ],
+            "valor_comum_pago": 10441635.0
+        },
+        "acao_auditoria": [
+            "Validar se pertencem ao mesmo grupo econômico / Matriz e Filial.",
+            "Verificar contrato social e dados bancários do processo.",
+            "Solicitar documentação de empenhamentos e procurações bancárias."
+        ]
+    },
+    {
+        "regra": "FRACIONAMENTO_OBJETO_PERIODO",
+        "severidade": "alta",
+        "tier": "T2",
+        "titulo": "Fracionamento de Contratação (Clone Textual)",
+        "descricao": "Fornecedor quebrou 59 faturamentos quase idênticos no mesmo mês e rubrica orçamentária somando R$ 116204939.00.",
+        "evidencias": {
+            "quantidade_faturada": 59,
+            "soma_burla": 116204939.0,
+            "intervalo_mensal": "2026-03",
+            "credor_alvo": "50.668.722/0019-16",
+            "exemplo_texto_empenho": "Servico de manutencao preventiva nos veiculos da frota"
+        },
+        "acao_auditoria": [
+            "Requisitar NFs para entender se o serviço foi loteado artificialmente para fugir do procedimento licitatório.",
+            "Verificar a data exata dos documentos liquidados.",
+            "Avaliar dotação original se sofreu quebra proposital de modalidade Dispensa."
+        ]
+    },
+    {
+        "regra": "FRACIONAMENTO_OBJETO_PERIODO",
+        "severidade": "alta",
+        "tier": "T2",
+        "titulo": "Fracionamento de Contratação (Clone Textual)",
+        "descricao": "Fornecedor quebrou 5 faturamentos quase idênticos no mesmo mês e rubrica orçamentária somando R$ 392150.00.",
+        "evidencias": {
+            "quantidade_faturada": 5,
+            "soma_burla": 392150.0,
+            "intervalo_mensal": "2026-03",
+            "credor_alvo": "00.360.305/0001-04",
+            "exemplo_texto_empenho": "Fornecimento de merenda escolar perecivel"
+        },
+        "acao_auditoria": [
+            "Requisitar NFs para entender se o serviço foi loteado artificialmente para fugir do procedimento licitatório.",
+            "Verificar a data exata dos documentos liquidados.",
+            "Avaliar dotação original se sofreu quebra proposital de modalidade Dispensa."
+        ]
+    },
+    {
+        "regra": "FRACIONAMENTO_OBJETO_PERIODO",
+        "severidade": "alta",
+        "tier": "T2",
+        "titulo": "Fracionamento de Contratação (Clone Textual)",
+        "descricao": "Fornecedor quebrou 4 faturamentos quase idênticos no mesmo mês e rubrica orçamentária somando R$ 979229.00.",
+        "evidencias": {
+            "quantidade_faturada": 4,
+            "soma_burla": 979229.0,
+            "intervalo_mensal": "2026-03",
+            "credor_alvo": "092.218.139-08",
+            "exemplo_texto_empenho": "Fornecimento de merenda escolar perecivel"
+        },
+        "acao_auditoria": [
+            "Requisitar NFs para entender se o serviço foi loteado artificialmente para fugir do procedimento licitatório.",
+            "Verificar a data exata dos documentos liquidados.",
+            "Avaliar dotação original se sofreu quebra proposital de modalidade Dispensa."
+        ]
+    },
+    {
+        "regra": "RETENCAO_ATIPICA",
+        "severidade": "media",
+        "tier": "T2",
+        "titulo": "Retenção de Empenho Anormal",
+        "descricao": "No empenho de R$ 94835.00, 55.0% foram integralmente retidos (R$ 52159.25).",
+        "evidencias": {
+            "documento_alvo": "66",
+            "credor_cnpj": "50.668.722/0019-16",
+            "valor_bruto": 94835.0,
+            "valor_retido": 52159.25000000001,
+            "percentual_sugado": 55.00000000000001
+        },
+        "acao_auditoria": [
+            "Investigar nos processos contábeis por que quase metade do dinheiro pago foi arrestado via retenção/recolhimento",
+            "Avaliar repasses a institutos ou tributos massivos não-justificados (INSS/IRRF absurdos)."
+        ]
+    },
+    {
+        "regra": "RETENCAO_ATIPICA",
+        "severidade": "media",
+        "tier": "T2",
+        "titulo": "Retenção de Empenho Anormal",
+        "descricao": "No empenho de R$ 195240.00, 55.0% foram integralmente retidos (R$ 107382.00).",
+        "evidencias": {
+            "documento_alvo": "66",
+            "credor_cnpj": "50.668.722/0019-16",
+            "valor_bruto": 195240.0,
+            "valor_retido": 107382.00000000001,
+            "percentual_sugado": 55.00000000000001
+        },
+        "acao_auditoria": [
+            "Investigar nos processos contábeis por que quase metade do dinheiro pago foi arrestado via retenção/recolhimento",
+            "Avaliar repasses a institutos ou tributos massivos não-justificados (INSS/IRRF absurdos)."
+        ]
+    },
+    {
+        "regra": "RETENCAO_ATIPICA",
+        "severidade": "media",
+        "tier": "T2",
+        "titulo": "Retenção de Empenho Anormal",
+        "descricao": "No empenho de R$ 4000000.00, 55.0% foram integralmente retidos (R$ 2200000.00).",
+        "evidencias": {
+            "documento_alvo": "568",
+            "credor_cnpj": "10.241.402/0001-31",
+            "valor_bruto": 4000000.0,
+            "valor_retido": 2200000.0,
+            "percentual_sugado": 55.00000000000001
+        },
+        "acao_auditoria": [
+            "Investigar nos processos contábeis por que quase metade do dinheiro pago foi arrestado via retenção/recolhimento",
+            "Avaliar repasses a institutos ou tributos massivos não-justificados (INSS/IRRF absurdos)."
+        ]
+    }
+]
