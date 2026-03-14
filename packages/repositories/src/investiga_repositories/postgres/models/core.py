@@ -103,12 +103,13 @@ class ExpenseEvent(Base):
     __table_args__ = {"schema": "core"}
 
     id: Mapped[int] = mapped_column(Integer, primary_key=True)
-    event_type: Mapped[str] = mapped_column(String, nullable=False)
+    party_id: Mapped[int] = mapped_column(Integer, ForeignKey("core.parties.id"), nullable=False)
     counterparty_id: Mapped[int | None] = mapped_column(Integer, ForeignKey("core.parties.id"))
-    orgao: Mapped[str | None] = mapped_column(String)
-    unidade: Mapped[str | None] = mapped_column(String)
-    valor_empenhado: Mapped[float | None] = mapped_column(Numeric(15, 2))
-    valor_liquidado: Mapped[float | None] = mapped_column(Numeric(15, 2))
+    expense_type: Mapped[str] = mapped_column(String, default="other") # payroll, supplier_payment, transfer
+    description: Mapped[str | None] = mapped_column(Text)
+    event_date: Mapped[datetime | None] = mapped_column(Date)
+    amount: Mapped[float | None] = mapped_column(Numeric(15, 2))
+    raw_source_id: Mapped[str | None] = mapped_column(String)  # Link to raw PK for idempotency
     valor_pago: Mapped[float | None] = mapped_column(Numeric(15, 2))
     data_pagamento: Mapped[datetime | None] = mapped_column(Date)
     historico: Mapped[str | None] = mapped_column(Text)
@@ -136,9 +137,25 @@ class IdentityMatch(Base):
     __table_args__ = {"schema": "core"}
 
     id: Mapped[int] = mapped_column(Integer, primary_key=True)
-    party_a_id: Mapped[int] = mapped_column(Integer, ForeignKey("core.parties.id"), nullable=False)
-    party_b_id: Mapped[int] = mapped_column(Integer, ForeignKey("core.parties.id"), nullable=False)
-    match_method: Mapped[str | None] = mapped_column(String)
-    confidence: Mapped[float | None] = mapped_column(Numeric(3, 2))
-    is_confirmed: Mapped[bool] = mapped_column(Boolean, default=False)
+    raw_record_id: Mapped[str] = mapped_column(String, nullable=False) # e.g. "atende_employees.45"
+    candidate_party_id: Mapped[int] = mapped_column(Integer, ForeignKey("core.parties.id"), nullable=False)
+    match_strategy: Mapped[str] = mapped_column(String, nullable=False) # e.g. "masked_cpf_exact_name"
+    confidence: Mapped[str] = mapped_column(String, nullable=False) # "high", "medium", "low"
+    decision_status: Mapped[str] = mapped_column(String, default="pending_review") # "auto_linked", "rejected", "pending_review"
+    resolver_version: Mapped[str | None] = mapped_column(String)
+    canonicalizer_version: Mapped[str | None] = mapped_column(String)
+    evidence_json: Mapped[dict | None] = mapped_column(JSONB)
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=datetime.now)
+
+
+class RelationshipEvidence(Base):
+    __tablename__ = "relationship_evidences"
+    __table_args__ = {"schema": "core"}
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    relationship_id: Mapped[int] = mapped_column(Integer, ForeignKey("core.party_relationships.id"), nullable=False)
+    raw_record_id: Mapped[str | None] = mapped_column(String)
+    source_name: Mapped[str] = mapped_column(String, nullable=False)
+    evidence_type: Mapped[str] = mapped_column(String, nullable=False) # e.g. "same_address_in_invoice", "minha_receita_qsa"
+    evidence_json: Mapped[dict | None] = mapped_column(JSONB)
+    extracted_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=datetime.now)
